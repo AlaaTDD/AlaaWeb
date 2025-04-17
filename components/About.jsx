@@ -18,11 +18,11 @@ const InfoData = [
   },
   {
     icon: <PhoneCall size={20} />,
-    text: "+201013961667",
+    text: "+201507948882",
   },
   {
     icon: <MailIcon size={20} />,
-    text: "alaatahadev048@gmail.com",
+    text: "tahaalaa605@gmail.com",
   },
   {
     icon: <Calendar size={20} />,
@@ -34,7 +34,7 @@ const InfoData = [
   },
   {
     icon: <HomeIcon size={20} />,
-    text: "Egypt, Cairo",
+    text: "Egypt, Qalyubia",
   },
 ];
 const qualificationData = [
